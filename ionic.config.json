@@ -1,0 +1,7 @@
+{
+  "name": "paddle-weather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
